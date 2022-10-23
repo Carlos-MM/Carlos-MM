@@ -4,7 +4,7 @@
 ---
 
 [![Twitter](https://img.shields.io/badge/Twitter-@cool_frog-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/cool_frog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos-MM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-martinez-mejia-b102161a2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CarlosMM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-martinez-mejia-b102161a2)
 ---
 
 Soy desarrollador full stack, me encanta codear y crear proyectos que sean funcionales y visualmente atractivos para una mejor experiencia de usuario.
