@@ -1,46 +1,13 @@
-# Hola! Soy Carlos Martínez.
-### Desarrollador Full Stack.
+# 💫 About Me:
+🔭 I am a full stack developer, I love to participate in projects that are functional and visually attractive for a better user experience.<br>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am Enthusiastic, I am super motivated to learn more every day, passionate about this beautiful world of IT, always willing to learn new technologies, looking for new challenges that give me the opportunity to grow and improve my skills.<br>🤝 Always willing to work as a team, fully self-taught and in continuous learning.<br>
 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-martinez-mejia-b102161a2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cool_frog) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-MM&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
-
-[![Twitter](https://img.shields.io/badge/Twitter-@cool_frog-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/cool_frog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CarlosMM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-martinez-mejia-b102161a2)
----
-
-Soy desarrollador full stack, me encanta codear y crear proyectos que sean funcionales y visualmente atractivos para una mejor experiencia de usuario.
-
-Soy Entusiasta, estoy super motivado a aprender cada día más, apasionado por este hermoso mundo de las IT, siempre dispuesto a aprender nuevas tecnologias, en busca de nuevos retos que me brinde la oportunidad de crecer y mejorar mis habilidades.
-
-Siempre dispuesto al trabajo en equipo, full autodidacta y en aprendizaje continuo.
-
----
-
-## Tecnologias
-[![.NET](https://img.shields.io/badge/.NET-1572B6?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
-[![.NETCore](https://img.shields.io/badge/.NETCore-1572B6?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
-[![SQLServer](https://img.shields.io/badge/SQLserver-1572B6?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7430F8?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-b32c07?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-[![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-[![VSCODE](https://img.shields.io/badge/VS-VSCode-1572B6?style=for-the-badge&logo=vscode3&logoColor=white&labelColor=101010)]()
-
-
-
-<!--
-**Carlos-MM/Carlos-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://visitcount.itsvg.in/api?id=Carlos-MM&icon=0&color=0)](https://visitcount.itsvg.in)
